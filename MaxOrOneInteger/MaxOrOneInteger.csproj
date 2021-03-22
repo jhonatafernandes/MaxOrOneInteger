@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <PackageId>MaxOrOneInteger</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Jhonata Fernandes</Authors>
+    <Company>jhonatafernandes.com</Company>
+    <PackageDescription>Function that chooses the maximum number or number one</PackageDescription>
+    <Description>Function that chooses the maximum number or number one</Description>
+    <RepositoryUrl>https://github.com/jhonatafernandes/MaxOrOneInteger</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/jhonatafernandes/MaxOrOneInteger</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Number Max</PackageTags>
+    <Title>Number Max Or One</Title>
+    <Summary>Function that chooses the maximum number or number one</Summary>
+  </PropertyGroup>
+
+</Project>

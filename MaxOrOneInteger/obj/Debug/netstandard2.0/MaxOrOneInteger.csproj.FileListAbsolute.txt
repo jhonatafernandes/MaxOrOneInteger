@@ -1,9 +1,0 @@
-C:\Users\jfo\Documents\Projetos\MaxOrOneInteger\MaxOrOneInteger\bin\Debug\netstandard2.0\MaxOrOneInteger.deps.json
-C:\Users\jfo\Documents\Projetos\MaxOrOneInteger\MaxOrOneInteger\bin\Debug\netstandard2.0\MaxOrOneInteger.dll
-C:\Users\jfo\Documents\Projetos\MaxOrOneInteger\MaxOrOneInteger\bin\Debug\netstandard2.0\MaxOrOneInteger.pdb
-C:\Users\jfo\Documents\Projetos\MaxOrOneInteger\MaxOrOneInteger\obj\Debug\netstandard2.0\MaxOrOneInteger.csprojAssemblyReference.cache
-C:\Users\jfo\Documents\Projetos\MaxOrOneInteger\MaxOrOneInteger\obj\Debug\netstandard2.0\MaxOrOneInteger.csproj.CoreCompileInputs.cache
-C:\Users\jfo\Documents\Projetos\MaxOrOneInteger\MaxOrOneInteger\obj\Debug\netstandard2.0\MaxOrOneInteger.AssemblyInfoInputs.cache
-C:\Users\jfo\Documents\Projetos\MaxOrOneInteger\MaxOrOneInteger\obj\Debug\netstandard2.0\MaxOrOneInteger.AssemblyInfo.cs
-C:\Users\jfo\Documents\Projetos\MaxOrOneInteger\MaxOrOneInteger\obj\Debug\netstandard2.0\MaxOrOneInteger.dll
-C:\Users\jfo\Documents\Projetos\MaxOrOneInteger\MaxOrOneInteger\obj\Debug\netstandard2.0\MaxOrOneInteger.pdb

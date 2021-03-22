@@ -5,7 +5,7 @@ namespace MaxOrOneInteger
 {
     public static class MaxOrOne
     {
-        public static int AddLinesByQuantity(this int number, int quantity, int otherQuantity)
+        public static int MaxOrOneInteger(this int number, int quantity, int otherQuantity)
         {
             var quantities = new List<int>{quantity, otherQuantity};
             

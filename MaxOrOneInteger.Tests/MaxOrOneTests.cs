@@ -14,7 +14,7 @@ namespace MaxOrOneInteger.Tests
         {
             var number = 1;
 
-            Assert.AreEqual(number.AddLinesByQuantity(quantity, otherQuantity), result);
+            Assert.AreEqual(number.MaxOrOneInteger(quantity, otherQuantity), result);
         }
     }
 }

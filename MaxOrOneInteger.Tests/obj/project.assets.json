@@ -1635,7 +1635,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "MaxOrOneInteger/1.0.0": {
+      "MaxOrOneInteger/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -5654,7 +5654,7 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "MaxOrOneInteger/1.0.0": {
+    "MaxOrOneInteger/1.0.1": {
       "type": "project",
       "path": "../MaxOrOneInteger/MaxOrOneInteger.csproj",
       "msbuildProject": "../MaxOrOneInteger/MaxOrOneInteger.csproj"
@@ -5664,7 +5664,7 @@
     ".NETCoreApp,Version=v3.1": [
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
-      "MaxOrOneInteger >= 1.0.0",
+      "MaxOrOneInteger >= 1.0.1",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "coverlet.collector >= 1.2.0"
     ]
